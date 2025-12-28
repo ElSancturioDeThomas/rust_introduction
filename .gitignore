@@ -1,0 +1,19 @@
+# Rust build artifacts
+target/
+**/*.rs.bk
+*.pdb
+
+# Compiled binaries
+hello_world/main
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
