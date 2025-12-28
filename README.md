@@ -51,4 +51,3 @@ This repository follows the structure of the official [Rust Book](https://doc.ru
 ## License
 
 This project is for educational purposes.
-
